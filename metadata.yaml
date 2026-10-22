@@ -1,0 +1,6 @@
+homepage: "https://opentracked.io"
+documentation: "https://docs.opentracked.io/google-tag-manager"
+versions:
+  # Each version is the commit that holds that version of template.tpl.
+  - sha: 24592d50909d78a8c415756f7c6105414b8b09c3
+    changeNotes: First release. Reads one thing your Open Tracked Data Store remembers about the visitor (hashed email, hashed phone, click ID ...). If the event already carries the value, that one wins.
