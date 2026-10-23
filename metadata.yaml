@@ -2,6 +2,8 @@ homepage: "https://opentracked.io"
 documentation: "https://docs.opentracked.io/google-tag-manager"
 versions:
   # Each version is the commit that holds that version of template.tpl. Newest first.
+  - sha: 159f6180c438d6f34d8065591486eb3de7fd6e82
+    changeNotes: Own icon with the Open Tracked mark.
   - sha: b49ff1f10299fff4e0dbdd3faf1c0006bff3dc8b
     changeNotes: Added the gallery categories.
   - sha: 24592d50909d78a8c415756f7c6105414b8b09c3
