@@ -15,6 +15,10 @@ ___INFO___
   "securityGroups": [],
   "displayName": "Open Tracked Data Store Lookup",
   "description": "Reads one thing your Open Tracked Data Store remembers about the visitor (hashed email, hashed phone, click ID ...). If the event already carries the value, that one wins.",
+  "categories": [
+    "UTILITY",
+    "ADVERTISING"
+  ],
   "containerContexts": [
     "SERVER"
   ],
